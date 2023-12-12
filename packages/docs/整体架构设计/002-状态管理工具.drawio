@@ -1,0 +1,94 @@
+<mxfile host="65bd71144e">
+    <diagram id="UvQ13ivZnoWiYY6M09h1" name="第 1 页">
+        <mxGraphModel dx="1372" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Bean 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry y="80" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Bean 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry y="260" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Bean 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry y="410" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;div style=&quot;color: rgb(221, 221, 221); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;div style=&quot;line-height: 22px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;key-1&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;objectID&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;business-DGUI-V1-Start-001&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;objectType&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;business&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;objectName&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;DGUI-V1-Start&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;objectEnName&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;DGUI-V1-Start&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;objectDisplayName&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;DGUI-V1-Start&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;},&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;key-2&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;list&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;[&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt; &lt;span style=&quot;color: #ff6c60;&quot;&gt;....&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;},&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;computed-1&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;根据多个属性计算而得&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;computed-2&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;根据多个属性计算而得&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="80" width="440" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="170" as="sourcePoint"/>
+                        <mxPoint x="150.71067811865476" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="130" as="sourcePoint"/>
+                        <mxPoint x="210" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="360" as="sourcePoint"/>
+                        <mxPoint x="200" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="配置化组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="400" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div style=&quot;color: rgb(221, 221, 221); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;[&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;name&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;组件名-波形图&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;theme&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;某个内置的主题、样式&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #96cbfe;&quot;&gt;source&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #a8ff60;&quot;&gt;数据来源，指向的是Bean的属性，或者指向某个computed&lt;/span&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;},&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #ff6c60;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #b5b3aa;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #b5b3aa;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="80" width="410" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="computed：计算属性，通过固定的表达式，算出来一个复合的指标，值可以根据bean的变化，来自动计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="80" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="actions：触发更新" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="240" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="getter：获取值，在获取的时候，自动进行依赖收集，当值变化时，会自动通知使用了这个值的组件" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="400" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="190" as="sourcePoint"/>
+                        <mxPoint x="680" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="16">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="340" as="sourcePoint"/>
+                        <mxPoint x="690" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="15">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="640" y="340" as="sourcePoint"/>
+                        <mxPoint x="690" y="550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="16">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="740" y="470" as="sourcePoint"/>
+                        <mxPoint x="790" y="420" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1310" y="520"/>
+                            <mxPoint x="1070" y="570"/>
+                            <mxPoint x="1150" y="490"/>
+                            <mxPoint x="1180" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="24" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="状态管理库：&lt;br&gt;按页面组织一个结构，该结构包含了页面所需的所有信息，每次切换页面时，会对该结构进行卸载，打开配置页面时，对结构进行加载" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="560" width="640" height="180" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

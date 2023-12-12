@@ -1,0 +1,142 @@
+<mxfile host="65bd71144e">
+    <diagram id="BqBouOYBs3fHfQ05NuVC" name="第 1 页">
+        <mxGraphModel dx="1386" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="13" value="element-plus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="240" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="基础组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="80" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="80" width="400" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="日期组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="90" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="列表组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="90" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="以element-plus为基础，进行二次封装。工程使用的所有组件，不在来自element-plus，而是使用这里暴露出去的" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="80" width="400" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="按钮组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="90" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="所有基于element二次封装的组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="150" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="组件适应UI规范，适应需求" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="160" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="在此基础上进行其他的组件拓展" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="220" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="折线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="210" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="柱状图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="210" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="拓扑算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="210" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="业务组件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="320" width="120" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="320" width="400" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="报警列表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="340" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="指标波形图" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="340" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="根据业务场景，抽离封装的特定组件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="320" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="可以在一定的业务场景中，进行服用" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="370" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="也是可视化组件的基础支持&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="420" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="ci-panel" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="340" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="13" target="16" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="390" as="sourcePoint"/>
+                        <mxPoint x="620" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="439.5" y="260" as="sourcePoint"/>
+                        <mxPoint x="439.5" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="拓扑图-力图" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="400" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="拓扑图-层次图" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="400" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="props" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="500" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="可配置组件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="580" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="580" width="390" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="组件暴露API，可被其他模块调用" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="500" width="400" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="647.5" width="330" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="请求配置化API" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="665" width="140" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="其他业务处理" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="465" y="665" width="120" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="49" target="44" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="180" y="560" as="sourcePoint"/>
+                        <mxPoint x="230" y="510" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="340" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="44" target="50" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="540" as="sourcePoint"/>
+                        <mxPoint x="620" y="490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="530" y="560"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="可配置组件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;fillColor=#fa6800;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="600" width="120" height="32.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="33" target="44" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="440" as="sourcePoint"/>
+                        <mxPoint x="620" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="可配置组件，处理能力配置接口和业务接口，将整合好的数据，通过业务组件暴露的api进行传入" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="620" width="400" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

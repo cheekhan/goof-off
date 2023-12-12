@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true,
+        // 不执行的代码，不报错
+        "allowUnreachableCode": true,
+        // "baseUrl": "./",
+        // 将每个文件，当作单独的模块
+        "isolatedModules": true,
+        // 编译中，需要引入的库的列表
+        // "lib": [
+        //     "ES2020",
+        //     "DOM",
+        //     "DOM.Iterable"
+        // ],
+        // 输入的代码格式，配合moduleResolution使用
+        // "module": "ESNext"
+        "module": "ESNext",
+        "moduleResolution": "bundler"
+    }
+}
