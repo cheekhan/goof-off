@@ -1,16 +1,19 @@
 {
-  "name": "@goof-of/core",
+  "name": "@top/core",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite --mode development"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@top/design": "workspace:^",
     "@vitejs/plugin-vue": "^4.5.2",
+    "axios": "^1.6.2",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.0",
     "vue-router": "^4.2.5"

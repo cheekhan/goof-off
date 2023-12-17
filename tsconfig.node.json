@@ -5,6 +5,7 @@
         "allowSyntheticDefaultImports": true,
         // 不执行的代码，不报错
         "allowUnreachableCode": true,
+        "baseUrl": ".",
         // "baseUrl": "./",
         // 将每个文件，当作单独的模块
         "isolatedModules": true,

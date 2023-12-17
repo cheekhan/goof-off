@@ -1,8 +1,11 @@
 import { h, defineComponent, ref, Ref } from "vue"
 import systemController from "../../api/modules/systemController"
 import type { menuBean } from "../../api/modules/systemController"
-import { ElMenu, ElMenuItem, ElSubMenu, ElIcon } from "element-plus"
+import { element } from "@top/design"
 import * as icons from "@element-plus/icons-vue"
+
+// 获取菜单相关的组件
+const { ElMenu, ElMenuItem, ElSubMenu, ElIcon } = element
 
 // 获取菜单数据
 const dataMenu: Ref<Array<menuBean>> = ref([])

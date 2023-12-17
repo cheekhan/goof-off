@@ -2,8 +2,8 @@
 import { ref } from "vue";
 import { RouterView } from "vue-router";
 import LayoutBar from "./LayoutBar.vue";
-import LayoutMenu from "./LayoutMenu.ts";
-// import LayoutMenu from "./LayoutMenu.vue";
+import LayoutMenu from "./LayoutMenu";
+import { Switch } from "@element-plus/icons-vue"
 
 const collapse = ref(false); // 是否收起菜单
 
@@ -12,7 +12,6 @@ const collapse = ref(false); // 是否收起菜单
 
 <template>
     <div class="layout-container">
-
         <div class="container">
             <div class="layout-menu" :style="{ 'width': collapse ? '70px' : '200px' }">
                 <div class="menu-logo">

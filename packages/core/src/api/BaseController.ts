@@ -21,6 +21,7 @@ export default class BaseController {
     constructor(config?: ControllerConfig) {
         this.config.timeout = config?.timeout || 10000;
         this.config.baseURL = config?.baseURL || import.meta.env.VITE_API_BASE_URL;
+        console.log(import.meta.env)
         this.instance = axios.create(this.config);
         this.setupAxios();
     }

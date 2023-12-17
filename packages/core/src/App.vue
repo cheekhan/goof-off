@@ -1,8 +1,5 @@
 <script lang="ts" setup>
-import { RouterView } from "vue-router";
-import { ElButton } from "element-plus"
-import { } from "vue";
-
+import { RouterView } from "vue-router"
 </script>
 
 <template>

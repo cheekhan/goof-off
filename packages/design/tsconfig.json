@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        /* Bundler mode */
+        "moduleResolution": "Node",
+    },
+    "references": [
+        {
+            "path": "../../tsconfig.node.json"
+        }
+    ]
+}
