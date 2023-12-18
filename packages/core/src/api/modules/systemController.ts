@@ -49,9 +49,9 @@ export class SystemController extends BaseController {
     }
 }
 
-const instance = new SystemController();
+const SystemControllerInstance = new SystemController();
 
 
-export default instance
+export default SystemControllerInstance
 
 

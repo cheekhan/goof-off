@@ -16,9 +16,13 @@ export class AccessController extends BaseController {
     async userList() {
         return this.useGetResponse('/user-list', {})
     }
+    // 用户登录
+    async userLogin() {
+        return this.usePostResponse('/login', {})
+    }
 }
 
-const instance = new AccessController();
+const AccessControllerInstance = new AccessController();
 
 
-export default instance
+export default AccessControllerInstance

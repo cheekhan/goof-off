@@ -73,3 +73,9 @@ export const userList = [
         ]
     }
 ]
+
+// 用户登录
+export const login = {
+    uname: "admin",
+    uid: "12345456"
+}

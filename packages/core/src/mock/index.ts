@@ -1,4 +1,4 @@
-import { roleList, groupList, userList } from "./access";
+import { roleList, groupList, userList, login } from "./access";
 import { pageList, privilegeList, menuList } from "./system"
 
 
@@ -9,4 +9,5 @@ export default {
     "/page-list": pageList,
     "/privilege-list": privilegeList,
     "/menu-list": menuList,
+    "/login": login
 }
