@@ -1,13 +1,14 @@
 <script lang="ts" setup>
 import { ref, Ref } from "vue"
 import { Tools } from "@element-plus/icons-vue"
-import SystemController from "@/api/modules/systemController";
-import type { menuBean } from "@/api/modules/systemController"
+// import SystemController from "@/api/modules/systemController";
+// import type { menuBean } from "@/api/modules/systemController"
+import { default as SystemControllerInstance, type menuBean } from "../../../api/modules/systemController"
 
 
 // 加载列表数据
-const tableData: Ref<menuBean[]> = ref([])
-SystemController.menuList().then(response => {
+const tableData: Ref<menuBean[]> = ref([]);
+SystemControllerInstance.menuList().then(response => {
     tableData.value = response
 })
 
@@ -27,13 +28,15 @@ function handleClick() {
     <div>
         <el-button type="primary">创建菜单</el-button>
     </div>
-    <el-table :data="tableData" style="width: 100%; margin-bottom: 20px" row-key="id" default-expand-all>
-        <el-table-column prop="label" label="label" />
+    <el-table :data="tableData" style="width: 100%; margin-bottom: 20px" row-key="menuID" default-expand-all>
+        <!-- <el-table-column prop="label" label="label" /> -->
         <el-table-column prop="name" label="name" />
-        <el-table-column prop="id" label="id" />
+        <!-- <el-table-column prop="id" label="id" /> -->
         <el-table-column prop="iconName" label="iconName" />
-        <el-table-column prop="path" label="path" />
-        <el-table-column label="操作">
+        <el-table-column prop="pageID" label="页面ID" />
+        <el-table-column prop="pageName" label="页面名称" />
+        <el-table-column prop="pagePath" label="页面路径" />
+        <el-table-column label="操作" width="120">
             <el-button type="primary" :icon="Tools" @click="handleClick">配置</el-button>
         </el-table-column>
     </el-table>
